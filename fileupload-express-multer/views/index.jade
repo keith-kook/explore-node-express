@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  form(id="uploadForm", enctype='multipart/form-data', action='/api/photo', method='post')
+    input.form-control(name='userPhoto', type='file')
+    input.form-control(name='userPhoto', type='file')
+    input.btn.btn.default(name='submit',type='submit', value='Upload')
+    input.form-control(name='random'type='text' id='random' name='random')
