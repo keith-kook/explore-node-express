@@ -1,0 +1,18 @@
+{>"layouts/master" /}
+{<title}
+    About Kepkobooks
+{/title}
+
+{<body}
+    <div class="row">
+        <div class="large-12 columns">
+            <h2>About Us</h2>
+            <p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis molestie lacus sed pharetra. Praesent sit amet accumsan tellus. Vestibulum sit amet massa et sem consequat ultrices. Donec turpis quam, venenatis sed tristique quis, mollis cursus metus. Suspendisse tincidunt nisi id metus consectetur, non efficitur leo accumsan. Phasellus feugiat risus at purus auctor finibus. Etiam in sem vel est viverra rhoncus ut in ipsum. Proin vitae tincidunt augue, vitae vulputate neque. In vitae commodo magna. Etiam porttitor, augue sit amet suscipit mattis, leo eros commodo est, eu tincidunt turpis velit sed nisl. Mauris convallis consequat nisi, vel gravida leo fermentum id. Fusce eget dolor est. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam erat volutpat. Nam tellus ex, pellentesque ac turpis vel, egestas sagittis ipsum. Nunc eu mi vitae dui vehicula pellentesque.
+            </p>
+            <p>
+Donec ut urna condimentum, cursus mi nec, gravida quam. Etiam et libero blandit, laoreet erat in, porttitor lectus. Suspendisse rhoncus tempus justo, at mollis neque consequat sed. Quisque ante nisi, mollis quis dolor in, auctor convallis leo. Donec et nulla ante. Vivamus pretium varius molestie. Donec vitae mi et nulla consequat malesuada eget nec nulla. Sed hendrerit congue laoreet. Nam sollicitudin varius elit rhoncus ullamcorper. Sed consequat efficitur urna a fringilla. Ut id fringilla velit, vitae porta magna.
+            </p>
+        </div>
+    </div>
+{/body}
